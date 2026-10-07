@@ -1,0 +1,311 @@
+{
+  "generatedAt": "2026-10-07T07:27:49.415Z",
+  "assets": [
+    {
+      "filename": "brit-robin.jpg",
+      "local": "/images/team/brit-robin.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/brit-robin.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "brigadier-shamsul-salekin.jpg",
+      "local": "/images/team/brigadier-shamsul-salekin.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/brigadier-shamsul-salekin.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "md-rashed-ali.jpg",
+      "local": "/images/team/md-rashed-ali.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/md-rashed-ali.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "md-harun-or-rashid.jpg",
+      "local": "/images/team/md-harun-or-rashid.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/md-harun-or-rashid.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "ramis-maliyat-sreonty.jpg",
+      "local": "/images/team/ramis-maliyat-sreonty.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/ramis-maliyat-sreonty.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "md-fariduzzaman.jpg",
+      "local": "/images/team/md-fariduzzaman.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/md-fariduzzaman.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "shah-md-khasruzzaman.jpg",
+      "local": "/images/team/shah-md-khasruzzaman.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/shah-md-khasruzzaman.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "abm-ziauddin.jpg",
+      "local": "/images/team/abm-ziauddin.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/abm-ziauddin.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "md-ruhul-amin-khondker.jpg",
+      "local": "/images/team/md-ruhul-amin-khondker.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/md-ruhul-amin-khondker.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "md-abdur-rob-howlader.jpg",
+      "local": "/images/team/md-abdur-rob-howlader.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/md-abdur-rob-howlader.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "dr-md-abdur-rahman.jpg",
+      "local": "/images/team/dr-md-abdur-rahman.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/dr-md-abdur-rahman.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "mohammad-ali-azam.jpg",
+      "local": "/images/team/mohammad-ali-azam.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/mohammad-ali-azam.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "mohammad-fakruddin-ahmed.jpg",
+      "local": "/images/team/mohammad-fakruddin-ahmed.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/mohammad-fakruddin-ahmed.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "mir-fakruddin.jpg",
+      "local": "/images/team/mir-fakruddin.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/mir-fakruddin.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "nahid-farzana-mukti.jpg",
+      "local": "/images/team/nahid-farzana-mukti.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/nahid-farzana-mukti.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "ali-ahsan-mullah.jpg",
+      "local": "/images/team/ali-ahsan-mullah.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/ali-ahsan-mullah.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "wakid-b-azad.jpg",
+      "local": "/images/team/wakid-b-azad.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/wakid-b-azad.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "rakibul-alam-lincoln.jpg",
+      "local": "/images/team/rakibul-alam-lincoln.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/rakibul-alam-lincoln.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "abdullah-kamal.jpg",
+      "local": "/images/team/abdullah-kamal.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/abdullah-kamal.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "nusrat-sharmin-mouri.jpg",
+      "local": "/images/team/nusrat-sharmin-mouri.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/nusrat-sharmin-mouri.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "saydujjaman-shamim.jpg",
+      "local": "/images/team/saydujjaman-shamim.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/saydujjaman-shamim.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "md-masudur-rahman.jpg",
+      "local": "/images/team/md-masudur-rahman.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/md-masudur-rahman.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "kamal-hossain-miah.jpg",
+      "local": "/images/team/kamal-hossain-miah.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/kamal-hossain-miah.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "tarun-kumar-biswas.jpg",
+      "local": "/images/team/tarun-kumar-biswas.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/tarun-kumar-biswas.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "ahammed-hossain-babu.jpg",
+      "local": "/images/team/ahammed-hossain-babu.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/ahammed-hossain-babu.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "mamonoor-rashid.jpg",
+      "local": "/images/team/mamonoor-rashid.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/mamonoor-rashid.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "amlan-ahmed-shampad.jpg",
+      "local": "/images/team/amlan-ahmed-shampad.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/amlan-ahmed-shampad.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "md-sulaiman.jpg",
+      "local": "/images/team/md-sulaiman.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/md-sulaiman.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "jahidul-hoque-talukder.jpg",
+      "local": "/images/team/jahidul-hoque-talukder.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/jahidul-hoque-talukder.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "nur-a-jannat.jpg",
+      "local": "/images/team/nur-a-jannat.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/nur-a-jannat.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "md-asaduzzaman.jpg",
+      "local": "/images/team/md-asaduzzaman.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/md-asaduzzaman.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "mohammad-rifat-hossain.jpg",
+      "local": "/images/team/mohammad-rifat-hossain.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/mohammad-rifat-hossain.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "abdul-awal-elamdi.jpg",
+      "local": "/images/team/abdul-awal-elamdi.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/abdul-awal-elamdi.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "tasmim-jahan-neeha.jpg",
+      "local": "/images/team/tasmim-jahan-neeha.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/tasmim-jahan-neeha.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "sm-jamil-boktiar.jpg",
+      "local": "/images/team/sm-jamil-boktiar.jpg",
+      "source": "https://lobbyingandlaw.com/images/team/sm-jamil-boktiar.jpg",
+      "status": "local"
+    },
+    {
+      "filename": "image_1.jpeg",
+      "local": "/images/gallery/image_1.jpeg",
+      "source": "https://lobbyingandlaw.com/images/gallery/image_1.jpeg",
+      "status": "local"
+    },
+    {
+      "filename": "image_2.jpeg",
+      "local": "/images/gallery/image_2.jpeg",
+      "source": "https://lobbyingandlaw.com/images/gallery/image_2.jpeg",
+      "status": "local"
+    },
+    {
+      "filename": "image_3.jpeg",
+      "local": "/images/gallery/image_3.jpeg",
+      "source": "https://lobbyingandlaw.com/images/gallery/image_3.jpeg",
+      "status": "local"
+    },
+    {
+      "filename": "image_4.jpeg",
+      "local": "/images/gallery/image_4.jpeg",
+      "source": "https://lobbyingandlaw.com/images/gallery/image_4.jpeg",
+      "status": "local"
+    },
+    {
+      "filename": "image_5.jpeg",
+      "local": "/images/gallery/image_5.jpeg",
+      "source": "https://lobbyingandlaw.com/images/gallery/image_5.jpeg",
+      "status": "local"
+    },
+    {
+      "filename": "image_6.jpeg",
+      "local": "/images/gallery/image_6.jpeg",
+      "source": "https://lobbyingandlaw.com/images/gallery/image_6.jpeg",
+      "status": "local"
+    },
+    {
+      "filename": "image_7.jpeg",
+      "local": "/images/gallery/image_7.jpeg",
+      "source": "https://lobbyingandlaw.com/images/gallery/image_7.jpeg",
+      "status": "local"
+    },
+    {
+      "filename": "image_8.jpeg",
+      "local": "/images/gallery/image_8.jpeg",
+      "source": "https://lobbyingandlaw.com/images/gallery/image_8.jpeg",
+      "status": "local"
+    },
+    {
+      "filename": "image_9.jpeg",
+      "local": "/images/gallery/image_9.jpeg",
+      "source": "https://lobbyingandlaw.com/images/gallery/image_9.jpeg",
+      "status": "local"
+    },
+    {
+      "filename": "image_10.jpeg",
+      "local": "/images/gallery/image_10.jpeg",
+      "source": "https://lobbyingandlaw.com/images/gallery/image_10.jpeg",
+      "status": "local"
+    },
+    {
+      "filename": "image_11.jpeg",
+      "local": "/images/gallery/image_11.jpeg",
+      "source": "https://lobbyingandlaw.com/images/gallery/image_11.jpeg",
+      "status": "local"
+    },
+    {
+      "filename": "image_12.jpeg",
+      "local": "/images/gallery/image_12.jpeg",
+      "source": "https://lobbyingandlaw.com/images/gallery/image_12.jpeg",
+      "status": "local"
+    },
+    {
+      "filename": "image_13.jpeg",
+      "local": "/images/gallery/image_13.jpeg",
+      "source": "https://lobbyingandlaw.com/images/gallery/image_13.jpeg",
+      "status": "local"
+    },
+    {
+      "filename": "image_14.jpeg",
+      "local": "/images/gallery/image_14.jpeg",
+      "source": "https://lobbyingandlaw.com/images/gallery/image_14.jpeg",
+      "status": "local"
+    },
+    {
+      "filename": "image_15.jpeg",
+      "local": "/images/gallery/image_15.jpeg",
+      "source": "https://lobbyingandlaw.com/images/gallery/image_15.jpeg",
+      "status": "local"
+    },
+    {
+      "filename": "hero-banner.jpeg",
+      "local": "/images/hero-banner.jpeg",
+      "source": "https://lobbyingandlaw.com/images/hero-banner.jpeg",
+      "status": "local"
+    }
+  ]
+}
