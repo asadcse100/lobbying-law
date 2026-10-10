@@ -187,11 +187,9 @@ const team = [
   ['Amlan Ahmed Shampad', 'Business Development Officer', 'amlan-ahmed-shampad.jpg'],
   ['Md. Sulaiman', 'Executive, Case Management', 'md-sulaiman.jpg'],
   ['Jahidul Hoque Talukder', 'Executive – Legal Research & Drafting Support', 'jahidul-hoque-talukder.jpg'],
-  ['Nur A Jannat', 'Executive – HR & Administration', 'nur-a-jannat.jpg'],
   ['Md Asaduzzaman', 'Senior Software Engineer', 'md-asaduzzaman.jpg'],
   ['Mohammad Rifat Hossain', 'Procurement Specialist – Tender & Compliance', 'mohammad-rifat-hossain.jpg'],
   ['Abdul Awal Elamdi', 'Research Associate', 'abdul-awal-elamdi.jpg'],
-  ['Tasmim Jahan Neeha', 'Research Associate', 'tasmim-jahan-neeha.jpg'],
   ['S.M. Jamil Boktiar', 'Junior Full-Stack Developer', 'sm-jamil-boktiar.jpg'],
 ];
 
